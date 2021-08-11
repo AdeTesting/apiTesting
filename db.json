@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Pancakes",
+      "description": "Chocolate pancakes"
+    },
+    {
+      "id": 2,
+      "name": "Doughnuts",
+      "description": "Doughnuts with raspberry jam"
+    },
+    {
+      "id": 3,
+      "name": "Cookies",
+      "description": "Cookies with cream"
+    }
+  ],
+  "shoppers": [
+    {
+      "id": 1,
+      "name": "Postman Client",
+      "email": "test_user@mailinator.com",
+      "phone": "0788667788"
+    },
+    {
+      "id": 2,
+      "name": "John Random",
+      "email": "real_user@gmail.com",
+      "phone": "0799009900"
+    },
+    {
+      "id": 3,
+      "name": "Jane Random",
+      "email": "default_user@yahoo.com",
+      "phone": "0766991122"
+    }
+  ]
+}
